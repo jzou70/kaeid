@@ -1,0 +1,1402 @@
+[
+ {
+   "Question": "What food should every foreigner try from Germany?",
+   "Coarse": "Entity",
+   "Fine": "Food",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the most surreal place to visit?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I buy a first class seat from US to China?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": "no further classification needed for yes/no"
+ },
+ {
+   "Question": "Is it safe to travel at night in China?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What country should I visit before I die?",
+   "Coarse": "Location",
+   "Fine": "Country",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is Stonehenge worth the effort?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the safest place in the US?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it safer to sit in the front or back of the plane?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": "separate category for short responses; this OR that questions"
+ },
+ {
+   "Question": "What is a good price for a plane ticket to Korea?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I check in online for a flight at London Heathrow?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What should you wear in Washington, D.C. in March?",
+   "Coarse": "Entity",
+   "Fine": "Apparel",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it better to rent a car or take a Greyhound bus from New Orleans to Baton Rouge?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best site to use for cruise deals?",
+   "Coarse": "Entity",
+   "Fine": "Web",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Do I need a passport to travel from Guam to mainland US through Japan?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Seattle or San Diego?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "How to obtain a visa in 4-6 days?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": "further classification?"
+ },
+ {
+   "Question": "When is the best time to backpack through Europe?",
+   "Coarse": "Numeric",
+   "Fine": "Period",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "What can someone under 21 do in Las Vegas?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": "??? other ???"
+ },
+ {
+   "Question": "Want to move to NYC. Should I finish college first?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "How do I prepare for my first time out of the country?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Things to do in Boston for 18/19 year olds?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": "how to handle abbreviations like 'yo'?"
+ },
+ {
+   "Question": "Where can I jet ski for cheap in Europe?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Entity",
+   "Notes": "or country or entity:corporation"
+ },
+ {
+   "Question": "How much does it cost to ship a birthday card internationally?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "How do I become a flight attendant?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "What are the best beaches close to Orlando?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Can I swim from Russia to the US without a passport?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Can you borrow money from an embassy if you lose yours abroad?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What should I absolutely not do when visiting the US?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "What shouldn't you do in France?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I rent a hotel or airbnb in Dubai?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Should we return the pyjamas given in flight during first class travel?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What airline should I fly from Thailand to US?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Best career choice for person who wants to travel the world?",
+   "Coarse": "Entity",
+   "Fine": "Job",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I travel with an infant in first class?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Dog-friendly hotels in Chelsea under $150/night?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What's the best way to orchestrate a 3-year international couch-surfing adventure?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "What should I keep in mind when planning a cross country trip on a motorcycle?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "When is the best time during the week to buy an airline ticket online?",
+   "Coarse": "Numeric",
+   "Fine": "Time",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best hotel booking API?",
+   "Coarse": "Entity",
+   "Fine": "Web",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Who makes the best travel bags?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What can I do during a long train journey?",
+   "Coarse": "Entity ",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Where are the best day hikes in Boston?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What is something I should experience while traveling alone?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Best airplane pillow?",
+   "Coarse": "Entity",
+   "Fine": "Product",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How can I minimize the cost of going to Japan?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Worst cultural faux pas in Paris?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How do I optimize airplane seat selection?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Best place to watch the fireworks in the Outer Banks?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "One unbelievable place I have to visit in China?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Best restaurant for authentic Chinese in Boston?",
+   "Coarse": "Entity",
+   "Fine": "Restaurant",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How much time should be spent exploring Boston?",
+   "Coarse": "Numeric",
+   "Fine": "Time Limit",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Hidden historical places I shouldn't miss in Philly?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Itinerary ideas for 15 days in Italy?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Where to stay in Tuscany?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Great reasonably priced restaurant in Auckland?",
+   "Coarse": "Entity",
+   "Fine": "Restaurant",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Best free thing to do in London?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is Marrakech safe for pregnant women?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Morocco or Egypt in December?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Where can I buy a handheld sewing machine in Bangkok?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Where are the best places to stop when driving from Houston to LA?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "How to move to NYC with no money?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the most popular beach for Washington, DC residents to vacation at in the summer?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "On average, how much money do you need a year to live in California with just the basic necessities?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "If I don't like rain, overcast skies, cold weather and liberal hipsters should I leave Oregon?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Would it be enough for a student to live off $500 a month in NYC?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Poll: California or Washington?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Where should my mom and I go on vacation?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Is a 4x4 SUV a necessity during the winter in the Albuquerque, New Mexico area?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Where can someone from NY buy a gun in Ohio?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Good solo trip destinations in the USA?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "What souvenir should I get from Miami, Florida?",
+   "Coarse": "Entity",
+   "Fine": "Product",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Best way to get from New York Greyhound station to JFK airport?",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Going to LA and Las Vegas in mid May, how much time do I need in each place?",
+   "Coarse": "Numeric",
+   "Fine": "Time Limit",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Best time to visit Disney with a 5 year old?",
+   "Coarse": "Numeric",
+   "Fine": "Date",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "How much should I take for spending money in New York for a week?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "How do you get the best Vegas hotel rate?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Does Italy get some good sunsets in October?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the best place to holiday in Italy over Xmas?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Best way to get to Milano centrale from Malpensa airport?",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "I want to move to Italy. Which city/town should I think about and why?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "I'm going to Italy this year for 10 days. It's $3,500 with airfare to and from, hotel and tour guide. Reasonable?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "If traveling from US to Italy, is it better to convert to Euros here or when I get to Italy?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Do people really need rain boots in Venice?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I move to Puglia or Verona, Italy?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "How much money should I take to Venice, Italy for 4 days?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "What languages should I study in order to communicate with the most people on the Camino de Santiago?",
+   "Coarse": "Entity",
+   "Fine": "Language",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "If I send a letter from East London to Berkshire, when will it get there?",
+   "Coarse": "Numeric",
+   "Fine": "Period",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the best place for a young sociable professional to live in South of England?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "What museum is worth vising in London?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Should you buy national express insurance yes or no and why?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What can I do for my birthday at 15 with my family in London?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Anywhere in Edinburgh I can get a really hot curry?",
+   "Coarse": "Entity",
+   "Fine": "Restaurant",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Does anyone know any nice furniture shops next to Stratford Westfield?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What should I pack to wear in London in the spring?",
+   "Coarse": "Entity",
+   "Fine": "Apparel",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "I'm planning a trip to London. Tips?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Can you live in Paris without knowing French?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "We are traveling to Paris and Amsterdam for our honeymoon in October. What is the best/easiest way to get from Paris to Amsterdam?",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I go to Barcelona or Paris for my 21 birthday?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "How long should I expect to be in passport control at CDG?",
+   "Coarse": "Numeric",
+   "Fine": "Time Limit",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I travel or save the money?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I buy advance tickets for the Catacombs in Paris?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it necessary to buy Disneyland Paris tickets in advance?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "In Vietnam, which is the best bank for withdrawing from Mastercard?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I make bus reservations in Mexico at this time of the year?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Software engineer from India, planning to visit the USA for 3-4 weeks for pleasure. Which visa should I apply for?",
+   "Coarse": "Entity",
+   "Fine": "Other",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What accurate offline GPS apps should I use for the whole island of Cyprus?",
+   "Coarse": "Entity",
+   "Fine": "App",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "If I have been deported and banned from the US, can I travel through US airspace?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the safest way to adapt a two pin British shaving socket to a European two pin (Germany) for use with an electric toothbrush bought in the UK?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Is there a way to cancel “automatic tipping” on Carnival cruise before the last day?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Is 2.5 hours enough time between domestic arrival and international departure at Stansted?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "When I use my credit card to book tickets for a friend, how many bonus miles do I get?",
+   "Coarse": "Numeric",
+   "Fine": "Quantity",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "I have no insurance but want to travel, what type of travel insurance should I buy?",
+   "Coarse": "Entity",
+   "Fine": "Product",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "If you stayed in Huangshan city first, did you have any problems getting to the mountain? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the best place to stay in Sulawesi ",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Best activity in Andalusia Spain? ",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Most photogenic places in Madagascar?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Where to find American Style karaoke bar in Toyko? ",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How to Travel in Bangalore on Shoe String Budget? ",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Naturist friendly places to stay in Madrid, Barcelona and Ibiza?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "How to get paid to be a traveler? ",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best choice to ski near Milano?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "bari or brindisi?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it cheaper to purchase the plan all up front, or extending? ",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "How much does it cost to rent a canal boat in Amsterdam?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Holland tour, off the beaten path?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How much should I expect to pay if I decide to hire a driver with his own personal car, to drive me and two other traveling companions between each of these cities in Cuba?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the best place to exhange dollars for euros in Dusseldorf?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Can you leave your luggage at hamburg airport if youhave an evening flight?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best way to travel from Paris to Fussen, Germany? ",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "A good guide book for Europe car trip?",
+   "Coarse": "Entity",
+   "Fine": "Product",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "I am looking to go olive picking in Greece this fall, any recommendations of regions to visit?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the cheapest month to fly to Petra?",
+   "Coarse": "Numeric",
+   "Fine": "Date",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Any suggestions for an inexpensive hotel in central Dublin? Ideally I'd like to find a good option in the 100 Euro per night range or less.",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Best country side area in south east or west Ireland? ",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "What's the best way to find cheap accommodation in Amsterdam?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it worth it to do the Camino de Santiago with dogs? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What to do or see in Barcelona in October for 1 day? ",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Suggestions for a nice hotel (4 star) with a great location in Barcelona.",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the best place for fondue in Geneva? ",
+   "Coarse": "Entity",
+   "Fine": "Restaurant",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Swiss alps or Dolomites?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Best time to see the Northern lights in Scandinavia?",
+   "Coarse": "Numeric",
+   "Fine": "Period",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "how much will it cost to tour switzerland? ",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Will be in Switzerland Mid May, planning on going to Murren, Will typical weather allow a little hiking?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Does anyone know a ceramic factory in Istanbul or very close from this city?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is there any activities for kids in Ankara? Like aqua water, zoo, museums, or park?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it safe to travel to Elazig, Turkey?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "How do I plan a trip to the best places in Scotland if I want to see historical sites mostly",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best SIM card for Argentina , Chile? ",
+   "Coarse": "Entity",
+   "Fine": "Product",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "what is the best trek to see patagonia?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Villa Gessell, Argentina. Is it worth spending a month there? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it easy to get around Patagonia on your own? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Easiest way to travel in Argentina overland?",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How long would bus routes from Bolivia to Brazil be? ",
+   "Coarse": "Numeric",
+   "Fine": "Time Limit",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Please tell me what what is the most reasonable underwater camera for snorkeling ",
+   "Coarse": "Entity",
+   "Fine": "Product",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best way to see The Galapagos? ",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Ecuador or Peru? Two week itinerary in November.",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Where are most of the expats in Uruguay? ",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Cost of renting a condo in punta del este ",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "I'm planning to visit Montevideo for 2 days, what are the places i cannot miss?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "How can I get a wheelchair delivered to my aunt in Venezuela?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Cheapest fare of Venezuela Flight?",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Can I hire a car at 18 years old in Sydney? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Best non-touristy things to do/see in New Zealand and Australia?",
+   "Coarse": "Entity",
+   "Fine": "Activity",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it cheaper to buy trips/activities on Expedia or at Fiji? ",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Does souvenirs and other items cost more in Fiji to compensate for the change in currency?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "What food must I try while visiting Fiji?",
+   "Coarse": "Entity",
+   "Fine": "Food",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Does any one knows a good place to buy wool clothes in New Zealand , South Island?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Samoa or Nepal?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Are there body scanners at Hong Kong airport?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "how can i check singapore visa status",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Best site to book train ticket from Singapore to KL online ",
+   "Coarse": "Entity",
+   "Fine": "Web",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Is singapore the most boring country on earth ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Is it safe to take a taxi from the airport in Phuket into town at 2 o'clock in the morning?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "I'm in Vietnam and have had my items lost and stolen and the police refuse to give me a report, what do I do? ",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Can I ride a scooter in Vietnam if I have an Australian licence and get an international license? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Do you know a good place to do rock climbing Vietnam? ",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "What is the best/cheapest way to travel from El Nido to Boracay, from there to Cebu and onto Siargao? (Philippines)",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What would a taxi cost from Narita airport to Tokyo? ",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Do I have to go nude in Japan's Onsens?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Do I need to have a tour guide while visiting the ZJJ national park? ",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "How to get from Luxor to the pyramids in Giza ",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "Where is the best place to hike near Marrakech in January, Imil or Tafraoute?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Best place to surf in Madagascar? ",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Climbing in Madagascar, sport or trad rack?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Planning a trip from Vancouver bc to Sicily and Portugal we have a month should we go to Sicily or Portugal first ",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Without Renting a Car or flying - what is the best way to get to Toronto -Canada from Buffalo NY ?",
+   "Coarse": "Entity",
+   "Fine": "Transportation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "Am I able to make trips back home without affecting my cover?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Should I rent a car for Tulum, Mexico",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "Recommend good local economical restaurants in playa del Carmen not around tourist places ?",
+   "Coarse": "Entity",
+   "Fine": "Restaurant",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "How much to budget for Mexico",
+   "Coarse": "Numeric",
+   "Fine": "Money",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Which country do you think it's better from this three: Costa Rica, Panama or Nicaragua?",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ },
+ {
+   "Question": "Can you recommend a good company to do Safari in Kenya and or Tanzania?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "I am going to be in Nairobi,Kenya for three days in April 2013 and need to find a safe and clean hotel there. Any suggestions?",
+   "Coarse": "Entity",
+   "Fine": "Corporation",
+   "Single": "Entity",
+   "Notes": ""
+ },
+ {
+   "Question": "What/where is fun in Nairobi in July?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "What are the best places to stay and the best things to do in Cape Town on a budget?",
+   "Coarse": "Location",
+   "Fine": "Attraction",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "When is cheap to go to jamaica?",
+   "Coarse": "Numeric",
+   "Fine": "Period",
+   "Single": "Numeric",
+   "Notes": ""
+ },
+ {
+   "Question": "Which of the Islands in the Bahamas is the safest for travel?",
+   "Coarse": "Location",
+   "Fine": "City",
+   "Single": "Location",
+   "Notes": ""
+ },
+ {
+   "Question": "Can you travel on a cruise from the U.S to the Bahamas with an expired green card?",
+   "Coarse": "Y/N",
+   "Fine": "",
+   "Single": "Y/N",
+   "Notes": ""
+ },
+ {
+   "Question": "How do you island hop in the Bahamas?",
+   "Coarse": "Instructional",
+   "Fine": "",
+   "Single": "Instructional",
+   "Notes": ""
+ },
+ {
+   "Question": "On a cruise would I want to rent a car or take a taxi or bike to explore on my own?? ",
+   "Coarse": "MC",
+   "Fine": "",
+   "Single": "MC",
+   "Notes": ""
+ }
+]
